@@ -1,1 +1,1 @@
-repository: bilal memon <br/> Author:<b> Bilal memon</b>
+repository: bilal memon <br/> Author:<b> Bilal Memon</b>
